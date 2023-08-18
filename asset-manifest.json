@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Frontend-Task-Seven/static/css/main.27caf93b.css",
+    "main.js": "/Frontend-Task-Seven/static/js/main.b1220cdc.js",
+    "static/media/Japan.jpg": "/Frontend-Task-Seven/static/media/Japan.606cdaee139f9808bfa9.jpg",
+    "static/media/Blue Beetle.jpg": "/Frontend-Task-Seven/static/media/Blue Beetle.3760b8d2de21cf6b98b5.jpg",
+    "static/media/oppenheimer.jpg": "/Frontend-Task-Seven/static/media/oppenheimer.529f8f17b2ccf7f078da.jpg",
+    "static/media/The Marvels.jpg": "/Frontend-Task-Seven/static/media/The Marvels.de6e178482e1f1a0cf33.jpg",
+    "static/media/Kick.jpg": "/Frontend-Task-Seven/static/media/Kick.edf3453f6c7de6234107.jpg",
+    "static/media/Thangalaan.jpg": "/Frontend-Task-Seven/static/media/Thangalaan.20d2e89116f4dde2c80b.jpg",
+    "static/media/Transformer - Rise of the Beasts.jpg": "/Frontend-Task-Seven/static/media/Transformer - Rise of the Beasts.91a22fe8101c234b1ae1.jpg",
+    "static/media/Mark Antony.jpg": "/Frontend-Task-Seven/static/media/Mark Antony.d1417c7fc73d9861ca77.jpg",
+    "static/media/Leo.jpg": "/Frontend-Task-Seven/static/media/Leo.73f05033e194a6618626.jpg",
+    "static/media/Spiderman across the spider vaerse.jpg": "/Frontend-Task-Seven/static/media/Spiderman across the spider vaerse.72d879126be33737f78a.jpg",
+    "static/media/Captain Miller.jpg": "/Frontend-Task-Seven/static/media/Captain Miller.8461242a7f745a62cac5.jpg",
+    "static/media/Por Thozhil.jpg": "/Frontend-Task-Seven/static/media/Por Thozhil.88e625dfaa74e8c9bbe0.jpg",
+    "static/media/Pushpa.jpg": "/Frontend-Task-Seven/static/media/Pushpa.797802486bc3d97c6ab3.jpg",
+    "static/media/KOK.jpg": "/Frontend-Task-Seven/static/media/KOK.cfc6f351ffd29275688a.jpg",
+    "static/media/Ayalaan.jpg": "/Frontend-Task-Seven/static/media/Ayalaan.17023d348f9b27f2e30f.jpg",
+    "static/media/Jawan.jpg": "/Frontend-Task-Seven/static/media/Jawan.3ce5308368b3b8ad2a83.jpg",
+    "static/media/Indian 2.jpg": "/Frontend-Task-Seven/static/media/Indian 2.1290dbe1c3ae69ddebae.jpg",
+    "static/media/Jailer.jpg": "/Frontend-Task-Seven/static/media/Jailer.dbd431492f65a49dd9f0.jpg",
+    "index.html": "/Frontend-Task-Seven/index.html",
+    "main.27caf93b.css.map": "/Frontend-Task-Seven/static/css/main.27caf93b.css.map",
+    "main.b1220cdc.js.map": "/Frontend-Task-Seven/static/js/main.b1220cdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27caf93b.css",
+    "static/js/main.b1220cdc.js"
+  ]
+}
